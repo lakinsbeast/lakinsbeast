@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center">Leetcode: <img width="33%" src="https://leetcode-stats-six.vercel.app/api?username=lakinsbeast&theme=dark"></p>
+
 <!--
 **lakinsbeast/lakinsbeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
